@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkduy2006&theme=radical&&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkduy2006&theme=radical"/>
 <!--
 **pkduy2006/pkduy2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
