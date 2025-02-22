@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Pham Khac Duy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pkduy2006&theme=algolia&show_icons=true)](https://github.com/pkduy2006)
+
 <!--
 **pkduy2006/pkduy2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
